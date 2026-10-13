@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e90ff,100:00bfff&height=200&section=header&text=Hey%2C%20I'm%20Ritesh%20Yadav%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Developer%20%7C%20Building%20Smart%20Solutions&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e90ff,100:00bfff&height=200&section=header&text=Hey%2C%20I'm%20Rohan%20Singh%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%2FML%20Developer%20%7C%20Building%20Smart%20Solutions&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+🚀;Aspiring+AI%2FML+Developer;Building+Real-World+Projects;Learning+DSA+%26+Problem+Solving;Future+AI+Engineer+💡" />
 
@@ -64,8 +64,8 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritesh-delta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritesh-delta&theme=tokyonight&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rohancodes912&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rohancodes912&theme=tokyonight&hide_border=true&background=0d1117&ring=00bfff&fire=00bfff&currStreakLabel=00bfff" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 ## 🧠 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh-delta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohancodes912&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=c9d1d9" />
 </div>
 
 ---
@@ -81,7 +81,7 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-delta" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohancodes912" alt="GitHub Activity Graph" />
 </p>
 ---
 
