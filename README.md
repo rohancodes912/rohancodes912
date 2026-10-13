@@ -30,33 +30,25 @@ Passionate about AI/ML and Data Structures, I enjoy solving problems and buildin
 
 ### 💬 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,java&theme=dark" />
 </p>
 
 ### 🌐 Web Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
-### 📚 Libraries
-<p>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" />
- <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=fastapi&logoColor=white" height="48" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" /> 
-</p>
+
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 ### ⚙️ Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,uvicorn&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="38" height="48"/>
+  
 </p>
 
 ---
